@@ -1,5 +1,6 @@
 const quoteIdFromAdviceSlip = document.querySelector("span#quotenumber");
 const quoteFromAdviceSlip = document.querySelector("h2#quote");
+const diceimage = document.getElementById("diceimage");
 
 const API_URL = "https://api.adviceslip.com/advice";
 function getAdvice(url) {
@@ -7,12 +8,14 @@ function getAdvice(url) {
 }
 const API = { getAdvice };
 
-(function randomAdvice() {
+function randomAdvice() {
   API.getAdvice(API_URL).then((data) => addQuote(data.slip));
-  // API.getAdvice(API_URL).then((data) => console.log(data.slip));
-})();
+}
 
 function addQuote(quote) {
   quoteIdFromAdviceSlip.innerText = `#${quote.id}`;
   quoteFromAdviceSlip.innerText = `"${quote.advice}"`;
 }
+
+window.addEventListener("load", randomAdvice);
+diceimage.addEventListener("click", randomAdvice);

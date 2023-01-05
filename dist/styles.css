@@ -47,6 +47,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer;
 }
 .container .dice-image:hover {
   box-shadow: 0 3px 30px var(--NeonGreen);

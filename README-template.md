@@ -14,7 +14,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - [My process](#my-process)
   - [Built with](HTML , SCSS , JAVASCRIPT)
   - [What I learned](#API INTERACTIONS)
-- [Author](#OGUBUIKE_EMEJURU)
+- [Author]( OGUBUIKE EMEJURU)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./README/Annotation%202023-01-05%20143339.pngscreenshot.jpg)
+(./README/Annotation%202023-01-05%20143339.pngscreenshot.jpg)
 
 ### Links
 
@@ -67,9 +67,11 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+-javascript event listeners
+
+- axios
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ogubuike245](https://www.frontendmentor.io/profile/@ogubuike245)
 - Twitter - [@spinkq](https://www.twitter.com/spinkq)

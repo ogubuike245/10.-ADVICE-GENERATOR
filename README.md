@@ -4,14 +4,16 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Overview]
 
-  - [The challenge](Advice generator app challenge on Frontend Mentor)
+  - [Advice generator app challenge on Frontend Mentor]
 
-  - [Screenshot](./README/Annotation%202023-01-05%20143339.pngscreenshot.jpg)
-  - [Links](https://gubiadvicegenerator.netlify.app/)
+![Desktop Preview](./README/desktop-preview.jpg)
+![active states Preview](./README/active-states.jpg)
 
-- [My process](#my-process)
+- [Links](https://gubiadvicegenerator.netlify.app/)
+
+- [My process]
   - [Built with](HTML , SCSS , JAVASCRIPT)
   - [What I learned](#API INTERACTIONS)
 - [Author]( OGUBUIKE EMEJURU)
@@ -30,12 +32,12 @@ Users should be able to:
 
 ### Screenshot
 
-(./README/Annotation%202023-01-05%20143339.pngscreenshot.jpg)
+![Screenshot](./README/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://gubiadvicegenerator.netlify.app/)
+- Solution URL: [https://github.com/ogubuike245/10.-ADVICE-GENERATOR.git]
+- Live Site URL: [https://gubiadvicegenerator.netlify.app/]
 
 ## My process
 
